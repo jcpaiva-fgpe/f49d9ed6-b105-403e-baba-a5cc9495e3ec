@@ -1,0 +1,1 @@
+{"id":"deb675ef-c282-4599-97d5-0438169ee2a8","name":"Sith Rule","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","fac2fba4-831a-4196-9d61-d329faaf9ceb","state","LOCKED"]}]}
