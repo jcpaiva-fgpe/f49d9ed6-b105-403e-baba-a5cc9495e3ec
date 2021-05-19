@@ -1,0 +1,1 @@
+{"id":"f591d488-7415-4b3f-a176-0e3dfec7dffa","name":"Jedi Rule","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","f0041d2b-2777-405c-8392-b7afc4a37988","state","LOCKED"]}]}
