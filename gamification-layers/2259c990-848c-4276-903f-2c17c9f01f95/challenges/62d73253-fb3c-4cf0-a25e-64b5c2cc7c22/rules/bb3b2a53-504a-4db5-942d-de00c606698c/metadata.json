@@ -1,0 +1,1 @@
+{"id":"bb3b2a53-504a-4db5-942d-de00c606698c","name":"Unlock Defend base","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","038dfcf7-a0d9-4e42-94f5-9d588360fc2e","state","OPENED"]}]}
