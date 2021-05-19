@@ -1,0 +1,1 @@
+znaczki = set(('!','@','#','$','%','^','&'))\n\nif '$' in znaczki:\n    print u'Ależ $ nadal tu jest!'\nelse:\n    print u'Uff! $ już tu nie ma.'
